@@ -1,0 +1,11 @@
+c:\users\jonathan\documents\visual studio 2010\Projects\Card Maker Express\Card Maker Express\bin\Debug\Card Maker Express.exe
+c:\users\jonathan\documents\visual studio 2010\Projects\Card Maker Express\Card Maker Express\bin\Debug\Card Maker Express.pdb
+c:\users\jonathan\documents\visual studio 2010\Projects\Card Maker Express\Card Maker Express\obj\x86\Debug\Card_Maker_Express.Form1.resources
+c:\users\jonathan\documents\visual studio 2010\Projects\Card Maker Express\Card Maker Express\obj\x86\Debug\Card_Maker_Express.Page_Selector.resources
+c:\users\jonathan\documents\visual studio 2010\Projects\Card Maker Express\Card Maker Express\obj\x86\Debug\Card_Maker_Express.Properties.Resources.resources
+c:\users\jonathan\documents\visual studio 2010\Projects\Card Maker Express\Card Maker Express\obj\x86\Debug\Card Maker Express.csproj.GenerateResource.Cache
+c:\users\jonathan\documents\visual studio 2010\Projects\Card Maker Express\Card Maker Express\obj\x86\Debug\Card Maker Express.exe
+c:\users\jonathan\documents\visual studio 2010\Projects\Card Maker Express\Card Maker Express\obj\x86\Debug\Card Maker Express.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2010\Projects\Card Maker Express\Card Maker Express\obj\x86\Debug\Card Maker Express.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Card Maker Express\Card Maker Express\obj\x86\Debug\Card Maker Express.exe
+C:\Users\Jonathan\Desktop\Card Maker Express\Card Maker Express\obj\x86\Debug\Card Maker Express.pdb
